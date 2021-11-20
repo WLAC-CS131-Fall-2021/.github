@@ -11,3 +11,5 @@ This organization will host the code for everyone's projects in seperate reposit
 3. [Create a file named "README.md"](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in your repo to talk about what your project is and provide relevant information and links.
 
 Once complete, your repo will then be publically accessible. Feel free to explore other projects in the repositories tab of the organization.
+
+If anyone has any questions or needs help feel free to reach out in the [discussions panel](https://github.com/WLAC-CS131-Fall-2021/.github/discussions) of the .github repo.
