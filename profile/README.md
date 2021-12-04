@@ -1,6 +1,6 @@
 # WLAC CS 131 Fall 2021
 
-This organization will host the code for everyone's projects in seperate repositories. Currently everyone should be added to the organization as a collaborator and should have the ability to create and modify the associated repos. If you don't have access email me at [lshamsschaal@gmail.com](mailto:lshamsschaal@gmail.com?subject=CS%20131%20Add%20Collaborator).
+This organization will host the code for everyone's projects in seperate repositories. Currently everyone should be added to the organization as a collaborator and should have the ability to create and modify the associated repos. If you don't have access email me at [lshamsschaal@gmail.com]( mailto:lshamsschaal@gmail.com?subject=CS%20131%20Add%20Collaborator&body=Hi%20Leon%2C%0D%0A%0D%0ACould%20you%20add%20me%20as%20a%20collaborator%20to%20the%20WLAC%20CS%20131%20GitHub%20organization%3F%0D%0AMy%20Username%3A).
 
 ### Adding your project
 
